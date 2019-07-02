@@ -16,7 +16,7 @@
     <q-footer reveal elevated>
       <q-toolbar>
         <q-toolbar-title>Powered by
-          <a href='me.gordonlam.space' class='text-white'><u>Gordon Lam</u>
+          <a href='https://me.gordonlam.space' class='text-white'><u>Gordon Lam</u>
           </a>
         </q-toolbar-title>
       </q-toolbar>
